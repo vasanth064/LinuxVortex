@@ -2,7 +2,7 @@
 gh auth login
 gh auth setup-git
 gh auth status
-cp -rv ~/snap/gh/502/.ssh ~/
+
 
 #setup git bare
 cd
@@ -52,5 +52,5 @@ dconf load /org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d
 
 #Config ZSH
 sudo usermod -s /usr/bin/zsh $(whoami)
-git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.config/powerlevel10k
+curl -sS https://starship.rs/install.sh | sh
 exec zsh

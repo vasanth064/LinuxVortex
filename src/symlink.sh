@@ -29,5 +29,7 @@ ln -sv /hdd/Poco\ M2\ Pro ~/Poco\ M2\ Pro
 ln -sv /hdd/Projects ~/Projects
 ln -sv /hdd/Repos ~/Repos
 ln -sv /hdd/Videos ~/Videos
-
+ln -sv /var/www/html /hdd/Projects/Web\ Server
+cp -rv /hdd/Projects/BrowserHome/ /var/www/html/
+ln -sv /hdd/zsh ~/.config/zsh
 echo '-----------------------------------------------------'

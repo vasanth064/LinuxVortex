@@ -13,7 +13,6 @@ snapd
 flatpak
 dconf-editor
 adb
-dkms
 unrar
 rofi
 rofimoji
@@ -41,3 +40,5 @@ edk2-ovmf-ia32
 swtpm
 swtpm-tools
 yt-dlp
+steam
+httpd
