@@ -2,12 +2,6 @@ com.spotify.Client
 org.telegram.desktop
 flathub com.getpostman.Postman
 com.discordapp.Discord
-io.bassi.Amberol
-com.mattjakeman.ExtensionManager 
-io.github.Figma_Linux.figma_linux
-io.github.shiftey.Desktop
+com.mattjakeman.ExtensionManager
 org.onlyoffice.desktopeditors
 com.obsproject.Studio
-com.github.GradienceTeam.Gradience
-com.github.rajsolai.textsnatcher
-tv.plex.PlexDesktop

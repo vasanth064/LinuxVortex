@@ -71,6 +71,5 @@ sudo grub2-mkconfig -o /boot/grub2/grub.cfg
 ./user.sh
 echo '----------------Installation Complete----------------'
 read
-./postInstall.sh
 
 sudo reboot

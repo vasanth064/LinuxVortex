@@ -1,4 +1,5 @@
 git
+stow
 curl
 wget
 numix-icon-theme-circle
@@ -14,14 +15,12 @@ flatpak
 dconf-editor
 adb
 unrar
-rofi
-rofimoji
-xsel
 zsh
 chrome-gnome-shell
 virt-manager
 gnome-tweaks
-pip microsoft-edge-stable
+pip
+microsoft-edge-stable
 code
 google-chrome-stable
 qemu-kvm

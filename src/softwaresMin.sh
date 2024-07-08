@@ -35,7 +35,7 @@ sudo dnf install microsoft-edge-stable -y
 fi
 
 sudo dnf update --refresh
-sudo dnf install zsh rofi rofimoji xsel chrome-gnome-shell gnome-tweaks -y
+sudo dnf install zsh chrome-gnome-shell gnome-tweaks -y
 
 #NVM
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | zsh
@@ -50,6 +50,5 @@ git config --global user.name "vasanth064"
 ./user.sh
 echo '----------------Installation Complete----------------'
 read
-./postInstall.sh
 
 sudo reboot
